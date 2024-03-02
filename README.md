@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Janita-S
+- 👋 Hi, I’m @Janita
 - 👀 I’m interested in databases and website
 - 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on N/A
